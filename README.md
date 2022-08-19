@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hello World!!😎🤙 
+> Information:
 
-<!--
-**LaFlame-03/LaFlame-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```CSS  
+Console.WriteLine("Name: Derick Felipe 💻");   
+Console.WriteLine("Studying: Analysis and Systems Development (ADS) 📝");   
+Console.WriteLine("Learning: C#, MySQL e Python 👨‍💻");   
+Console.WriteLine("Contact: derickfelipe2003@gmail.com 📧");
+Console.WriteLine("Hobbies: Video Games 🎮 and Music 🎵")
+Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");  
+```
