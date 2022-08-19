@@ -12,7 +12,7 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 ### 🎧 SPOTIFY PLAYING
 
 <!-- LINKS --> 
-[<img src="https://spotify-link-mhkm5eijy-laflame-03.vercel.app/api/spotify" />]"(https://open.spotify.com/user/derickfelipe2003)"
+[<img src="https://spotify-link-mhkm5eijy-laflame-03.vercel.app/api/spotify" />]"https://open.spotify.com/user/derickfelipe2003"
 ```
 **[<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav)** 
 **[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@DOLLYNHOXD17#0618)** 
