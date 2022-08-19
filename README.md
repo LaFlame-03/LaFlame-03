@@ -13,3 +13,4 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 **[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@DOLLYNHOXD17#0618)** 
 **[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLfvfTmcbRJvtJRGGqvWjZCDQksGWPHzgjqfGDdFRxMRPGjjLGsFjSfQlZbmNzTKLfbq)**
 **[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/derickfelipe2003)**
+**https://github-readme-stats.vercel.app/api/top-langs/?username={LaFlame-03}**
