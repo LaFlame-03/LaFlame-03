@@ -7,7 +7,12 @@ Console.WriteLine("Studying: Analysis and Systems Development (ASD) 📝");
 Console.WriteLine("Learning: C#, MySQL e Python 👨‍💻");   
 Console.WriteLine("Contact: derickfelipe2003@gmail.com 📧");
 Console.WriteLine("Hobbies: Video Games 🎮 and Music 🎵")
-Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");  
+Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
+
+### 🎧 SPOTIFY PLAYING
+
+<!-- LINKS --> [![Spotify]spotify-link-mhkm5eijy-laflame-03.vercel.app]https://open.spotify.com/user/derickfelipe2003
+
 ```
 **[<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav)** 
 **[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@DOLLYNHOXD17#0618)** 
