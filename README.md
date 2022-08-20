@@ -11,17 +11,10 @@ Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
 ```
 
-´´´
 ### 🎧 Spotify Playing
-<table width="100%"> 
-  <tr>
-  <td width="50%">
 
 &nbsp; <br> [![Spotify](https://spotify-link-mhkm5eijy-laflame-03.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/derickfelipe2003)
-
-  </td>
-  <td width="50%">
-´´´
+    
 **[<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav)** 
 **[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@DOLLYNHOXD17#0618)** 
 **[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLfvfTmcbRJvtJRGGqvWjZCDQksGWPHzgjqfGDdFRxMRPGjjLGsFjSfQlZbmNzTKLfbq)**
