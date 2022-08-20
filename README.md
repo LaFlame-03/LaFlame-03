@@ -9,9 +9,8 @@ Console.WriteLine("Contact: derickfelipe2003@gmail.com 📧");
 Console.WriteLine("Hobbies: Video Games 🎮 and Music 🎵")
 Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
 
-### 🎧 SPOTIFY PLAYING
-
-[![Spotify](https://spotify-link-mhkm5eijy-laflame-03.vercel.app/)](https://open.spotify.com/user/derickfelipe2003)
+### 🎧 Spotify Playing
+[<img src="https://spotify-link-mhkm5eijy-laflame-03.vercel.app/api/spotify-playing" alt= "Spotify Now Playing" width="350" />](https://open.spotify.com/user/derickfelipe2003)
 
 ```
 **[<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav)** 
