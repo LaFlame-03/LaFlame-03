@@ -1,4 +1,4 @@
-## Hello World!!😎🤙 
+## Hello World!!🤙 
 > Informations:
 
 ```CSS  
