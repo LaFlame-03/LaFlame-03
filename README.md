@@ -2,12 +2,12 @@
 > Informations:
 
 ```CSS  
-Console.WriteLine("Name: Derick Felipe 💻");   
+System.out.println("Name: Derick Felipe 💻");   
 Console.WriteLine("Studying: Analysis and Systems Development (ASD) 📝");   
-Console.WriteLine("Learning: C#, MySQL e Python 👨‍💻");   
+System.out.println("Learning: C#, MySQL, Java and HTML 👨‍💻");   
 Console.WriteLine("Contact: derickfelipe2003@gmail.com 📧");
-Console.WriteLine("Hobbies: Video Games 🎮 and Music 🎵")
-Console.WriteLine("\n\nThanks for reading, Tap any key to continue...\n\n\n");
+System.out.println("Hobbies: Video Games 🎮 and Music 🎵")
+Console.WriteLine("\n\nThanks for reading, Tap any key to close...\n\n\n");
 
 ```
 
