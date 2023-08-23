@@ -2,28 +2,7 @@
 > Informations:
 
 ```CSS
- body{
-            display: flex;
-            align-items: center;
-            height: 100vh;
-            width: 100%;
-            justify-content: center;
-            background: linear-gradient(150deg, #23a82a, #6e07b2,#23a82a, #6e07b2);
-            background-size: 300% 300%;
-            animation: gradient 10s ease-out infinite;
-        }
-        @keyframes gradient{
-            0%{
-                background-position: 0% 50%;
-            }
-            50%{
-                background-position: 100% 50%;
-            }
-            100%{
-                background-position: 0% 50%;
-            }
 
-        }
 System.out.println("Name: Derick Felipe 💻");   
 Console.WriteLine("Studying: Analysis and Systems Development (ASD) 📝");   
 System.out.println("Learning: C#, MySQL, Java and HTML 👨‍💻");   
